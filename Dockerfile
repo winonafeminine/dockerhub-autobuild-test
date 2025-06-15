@@ -1,5 +1,5 @@
 # ใช้ base image ที่เล็กที่สุด
-FROM alpine:lates
+FROM alpine:latest
 
 # v2: เพิ่มคอมเมนต์เพื่อ trigger build
 
